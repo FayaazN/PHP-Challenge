@@ -43,5 +43,8 @@ body{
     margin-bottom: 50px;
 }
 .loginform{
-    text-align:center;
+    text-align: right;
+}
+.php{
+    text-align: right;
 }

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
+      <path value="D:\Fayaaz Nabie\Documents\php-7.2.6-nts-Win32-VC15-x64" />
       <path value="." />
       <path value="C:\php\pear" />
+      <path value="D:\Fayaaz Nabie\Programs\PhpStorm\jre64\bin" />
     </include_path>
   </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
 </project>
