@@ -35,17 +35,17 @@
 
 <div class="row">
     <div class="column">
-        <a href="Ashafar.html"><img class="ShowcaseImage" src="ashafar.jpg"></a>
+        <a href="Ashafar/Ashafar.html"><img class="ShowcaseImage" src="Ashafar/ashafar.jpg"></a>
 
 
     </div>
 
     <div class="column">
-        <a href="Bbe.html"> <img class="ShowcaseImage" src="Esko.jpg"></a>
+        <a href="BeatsByEsko/Bbe.html"> <img class="ShowcaseImage" src="BeatsByEsko/Esko.jpg"></a>
     </div>
 
     <div class="column">
-        <a href="Lijpe.html"><img class="ShowcaseImage" src="Lijpe.png"></a>
+        <a href="Lijpe/Lijpe.html"><img class="ShowcaseImage" src="Lijpe/Lijpe.png"></a>
     </div>
 
 </div>
@@ -58,8 +58,8 @@
 function login()
 {
     if (($_POST["gnaam"] == "fayaaz" && $_POST["wwoord"] == "2059934") ||
-        //($_POST["gnaam"] == "tim" && $_POST["wwoord"] == "2073636") ||
-        ($_GET["gnaam"] =="faaziya" && $_GET["wwoord"]=="hoi"))
+        ($_POST["gnaam"] == "tim" && $_POST["wwoord"] == "2073636")
+        )
 
         echo "Current user: " . $_POST["gnaam"];
     else {
