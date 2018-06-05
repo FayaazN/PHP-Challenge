@@ -48,3 +48,47 @@ body{
 .php{
     text-align: right;
 }
+.playlist{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.loginbody{
+    text-align: center;
+}
+
+article.kant1 {
+    display:inline-block;
+
+    width:40%;
+    padding-right:10px;
+    vertical-align:top;
+}
+
+input.box , select.combo {
+    float:right;
+}
+
+input.radio1 , input.radio2 {
+
+
+}
+
+article.kant1 {
+    display:inline-block;
+    width:40%;
+    padding-right:50px;
+    vertical-align:top;
+}
+
+article.kant2{
+    text-align: left;
+    padding-left:100px;
+}
+
+div.knop{
+
+    padding-left:100px;
+}
+div.geslacht {
+    float:right;
+}

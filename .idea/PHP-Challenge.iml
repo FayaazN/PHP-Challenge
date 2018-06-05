@@ -7,12 +7,12 @@
     <orderEntry type="module-library">
       <library name="PHP" type="php">
         <CLASSES>
-          <root url="file://C:/Windows/System32" />
+          <root url="file://$USER_HOME$/Desktop" />
           <root url="file://$MODULE_DIR$/../../../Documents/php-7.2.6-nts-Win32-VC15-x64" />
           <root url="file://$APPLICATION_HOME_DIR$/jre64/bin" />
         </CLASSES>
         <SOURCES>
-          <root url="file://C:/Windows/System32" />
+          <root url="file://$USER_HOME$/Desktop" />
           <root url="file://$MODULE_DIR$/../../../Documents/php-7.2.6-nts-Win32-VC15-x64" />
           <root url="file://$APPLICATION_HOME_DIR$/jre64/bin" />
         </SOURCES>
